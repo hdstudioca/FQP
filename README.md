@@ -1,2 +1,3 @@
 # FQP
-FQP is a quoting app for fences
+Fence Quote Pro(FQP) is a quoting app for fences
+
